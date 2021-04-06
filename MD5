@@ -1,13 +1,13 @@
-84d7e3fdc06300c05f623bde16db587f *DESCRIPTION
+a3eaf6d6ea303019586565ab21b470fd *DESCRIPTION
 b1824a49650962bd1facb2df8dd293a5 *LICENSE
 124a61956ae8a8230667084a93c4cf47 *NAMESPACE
-146e21718f7730bb75d148fce5c6f934 *NEWS.md
+63028c807bab822edfdbdc5e9a7ceb0a *NEWS.md
 a74857b77e63432c9c8464d55a9c5e57 *R/find_icon.R
 ce6ebcae024d15dde7da3a7c4084205c *R/launch_gallery.R
 0853e14c9059d076bf8e8149465482b8 *R/rheroicon.R
-973c04d0adc2bcf5388a109dc482d77e *R/sysdata.rda
+ee9e662f4182ab1cd4ec3978942529b7 *R/sysdata.rda
 dbcaeeae6f0201ceeaa6c361f66b816c *R/utils.R
-2eddec0096d70cecdf13f7c6d04f6cbb *README.md
+2ddfa0f962316296a6a18dcc8c8177aa *README.md
 2c39557f024f88a23a71ae9761e7a156 *inst/gallery-assets/public/index.html
 7ae548dfa9e769c3d91408bebf486f54 *inst/gallery-assets/public/rheroicons.min.css
 b538d4281d583980a8f1e382027b3708 *inst/gallery-assets/public/rheroicons.min.js
