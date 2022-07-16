@@ -21,10 +21,9 @@ Install the stable version from CRAN.
 install.packages("rheroicons")
 ```
 
-Use `devtools`, `remotes`, `renv` to install the development version.
+The main branch of this repository and the latest release will always be even with the CRAN release. All development will take place on a new branch, and then merged with main when all tests have passed. New releases may be available prior to CRAN acceptance. If this is the case, you can download the GitHub release using the following command. Please note that release may change if revisions were requested.
 
 ```r
-# latest dev release
 remotes::install_github("davidruvolo51/rheroicons@*release")
 ```
 
@@ -54,6 +53,9 @@ rheroicons::find_icons(query = "chevron|arrow")
 
 # find icons with `down`, `up`, `left`, OR `right` in the name
 rheroicons::find_icons(query = "down|up|left|right")
+
+# find icons that end with '_down' using regex
+rheroicons::find_icons(query = "(\\_down)$")
 ```
 
 ### Rendering Icons
